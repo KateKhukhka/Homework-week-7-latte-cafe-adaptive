@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Azeret Mono Regular';
+	src: url('../fonts/azeret_mono_regular.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/azeret_mono_regular.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/azeret_mono_regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/azeret_mono_regular.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/azeret_mono_regular.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/azeret_mono_regular.svg#azeret_mono_regular') format('svg'); /* Chrome < 4, Legacy iOS */
+}
